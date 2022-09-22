@@ -1,2 +1,3 @@
 # Transversal.Util.BaseDBUp
+> Desarrollo personal ... vamos de a poco
 En proceso ...
